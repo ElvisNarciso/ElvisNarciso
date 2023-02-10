@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Elvis</h1>
-<h3 align="center">Desenvolvedor aqui no Brasil.</h3>
+<h3 align="center">Desenvolvedor aqui no Brasil. Atualmente com foco em Full-Stack, utilizando React, MongoDB e afins.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvisnarciso&label=Profile%20views&color=0e75b6&style=flat" alt="elvisnarciso" /> </p>
 
