@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Elvis</h1>
 <h3 align="center">Desenvolvedor aqui no Brasil. Atualmente com foco em Full-Stack, utilizando React, MongoDB e afins.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611539c267a5dac966c4da935b168e84936c5f6b5c0&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvisnarciso&label=Profile%20views&color=0e75b6&style=flat" alt="elvisnarciso" /> </p>
 
