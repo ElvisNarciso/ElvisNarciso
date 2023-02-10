@@ -2,10 +2,9 @@
 <h1 align="center">Olá 👋, Eu sou o Elvis</h1>
 <h3 align="center">Desenvolvedor aqui no Brasil. Atualmente com foco em Full-Stack, utilizando React, MongoDB e afins.</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611539c267a5dac966c4da935b168e84936c5f6b5c0&rid=giphy.gif&ct=g">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvisnarciso" alt="elvisnarciso" /></a> </p>
 
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611539c267a5dac966c4da935b168e84936c5f6b5c0&rid=giphy.gif&ct=g">
 
 - 🔭Eu atualmente estou trabalhando no projeto [Dall-e](https://elvis-teste-site-artificial-7097b7.netlify.app/)
 
