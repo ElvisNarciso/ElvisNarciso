@@ -1,6 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://elvis-portifolio.netlify.app/)
 <h1 align="center">Olá 👋, Eu sou o Elvis</h1>
 <h3 align="center">Desenvolvedor aqui no Brasil. Atualmente com foco em Full-Stack, utilizando React, MongoDB e afins.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611539c267a5dac966c4da935b168e84936c5f6b5c0&rid=giphy.gif&ct=g">
+
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611539c267a5dac966c4da935b168e84936c5f6b5c0&rid=giphy.gif&ct=g">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elvisnarciso&label=Profile%20views&color=0e75b6&style=flat" alt="elvisnarciso" /> </p>
 
