@@ -9,9 +9,9 @@
 
 - 🌱 Eu atualmente estou estudando **React JS,**
 
-- 👨‍💻 Meus projetos estão aqui [https://elvis-portifolio.netlify.app/](https://elvis-portifolio.netlify.app/)
+- 👨‍💻 Meus projetos estão aqui [https://elvisnarcisoweb.netlify.app/](https://elvisnarcisoweb.netlify.app/)
 
-- 💬 Pergunte me sobre **HTML, CSS, JAVASCRIPT, REACT JS.**
+- 💬 Pergunte me sobre **HTML, CSS, JAVASCRIPT, REACT JS, Python.**
 
 - 📫 Como me contatar **elvisnarciso222@gmail.com**
 
